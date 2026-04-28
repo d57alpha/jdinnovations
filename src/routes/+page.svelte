@@ -11,14 +11,14 @@
                     <div class="w-10 h-10 bg-indigo-600 rounded-lg flex items-center justify-center text-white">
                         <i class="ph ph-graduation-cap text-xl"></i>
                     </div>
-                    DJI<span class="text-indigo-600">Academy</span>
+                    JD<span class="text-indigo-600">Innovations</span>
                 </a>
 
                 <div class="hidden lg:flex items-center space-x-8 font-medium text-slate-600">
-                    <a href="index.html" class="text-indigo-600">Home</a>
-                    <a href="courses.html" class="hover:text-indigo-600 transition">Explore Courses</a>
+                    <a href="/" class="text-indigo-600">Home</a>
+                    <a href="/" class="hover:text-indigo-600 transition">Explore Courses</a>
                     <a href="/" class="hover:text-indigo-600 transition">Mentors</a>
-                    <a href="contact.html" class="hover:text-indigo-600 transition">Contact</a>
+                    <a href="/" class="hover:text-indigo-600 transition">Contact</a>
                 </div>
 
                 <div class="flex items-center gap-4">
@@ -96,7 +96,7 @@
                         </div>
                         <div class="space-y-4">
                             <img src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=600"
-                                class="rounded-3xl shadow-2xl w-full h-64 object-cover object-center">
+                                class="rounded-3xl shadow-2xl w-full h-64 object-cover object-center" alt="myimage1">
                             <div class="bg-white p-4 rounded-2xl shadow-lg animate-bounce"
                                 style="animation-duration: 4s;">
                                 <div
@@ -198,7 +198,7 @@
                     class="group bg-white rounded-3xl overflow-hidden border border-gray-100 hover:shadow-2xl transition duration-300 flex flex-col h-full">
                     <div class="relative h-60 overflow-hidden">
                         <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800"
-                            class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+                            class="w-full h-full object-cover group-hover:scale-110 transition duration-500" alt="myimage3">
                         <div
                             class="absolute top-4 left-4 bg-white/90 backdrop-blur px-3 py-1 rounded-lg text-xs font-bold text-indigo-600 uppercase">
                             IT & Software</div>
@@ -222,7 +222,7 @@
                         <div class="mt-auto pt-6 border-t border-gray-100 flex items-center justify-between">
                             <div class="flex items-center gap-3">
                                 <img src="https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=100"
-                                    class="w-8 h-8 rounded-full">
+                                    class="w-8 h-8 rounded-full" alt="myimage4">
                                 <span class="text-sm font-medium text-slate-600">Robert Fox</span>
                             </div>
                             <span class="text-xl font-bold text-indigo-600">$19.99</span>
@@ -235,7 +235,7 @@
                     class="group bg-white rounded-3xl overflow-hidden border border-gray-100 hover:shadow-2xl transition duration-300 flex flex-col h-full">
                     <div class="relative h-60 overflow-hidden">
                         <img src="https://images.unsplash.com/photo-1533750516457-a7f992034fec?w=800"
-                            class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+                            class="w-full h-full object-cover group-hover:scale-110 transition duration-500" alt="myimage5">
                         <div
                             class="absolute top-4 left-4 bg-white/90 backdrop-blur px-3 py-1 rounded-lg text-xs font-bold text-indigo-600 uppercase">
                             Marketing</div>
@@ -259,7 +259,7 @@
                         <div class="mt-auto pt-6 border-t border-gray-100 flex items-center justify-between">
                             <div class="flex items-center gap-3">
                                 <img src="https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100"
-                                    class="w-8 h-8 rounded-full">
+                                    class="w-8 h-8 rounded-full" alt="myimage6">
                                 <span class="text-sm font-medium text-slate-600">Jenny Wilson</span>
                             </div>
                             <span class="text-xl font-bold text-indigo-600">$24.99</span>
@@ -272,7 +272,7 @@
                     class="group bg-white rounded-3xl overflow-hidden border border-gray-100 hover:shadow-2xl transition duration-300 flex flex-col h-full">
                     <div class="relative h-60 overflow-hidden">
                         <img src="https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=800"
-                            class="w-full h-full object-cover group-hover:scale-110 transition duration-500">
+                            class="w-full h-full object-cover group-hover:scale-110 transition duration-500" alt="myimage7">
                         <div
                             class="absolute top-4 left-4 bg-white/90 backdrop-blur px-3 py-1 rounded-lg text-xs font-bold text-indigo-600 uppercase">
                             Design</div>
@@ -296,7 +296,7 @@
                         <div class="mt-auto pt-6 border-t border-gray-100 flex items-center justify-between">
                             <div class="flex items-center gap-3">
                                 <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100"
-                                    class="w-8 h-8 rounded-full">
+                                    class="w-8 h-8 rounded-full" alt="myimage8">
                                 <span class="text-sm font-medium text-slate-600">Guy Hawkins</span>
                             </div>
                             <span class="text-xl font-bold text-indigo-600">$34.99</span>
@@ -322,19 +322,19 @@
                         <div class="w-8 h-8 bg-indigo-600 rounded flex items-center justify-center text-white">
                             <i class="ph ph-graduation-cap text-lg"></i>
                         </div>
-                        DJI
+                        JDI
                     </a>
                     <p class="text-slate-400 text-sm leading-relaxed mb-6">
                         Empowering learners worldwide with accessible, high-quality education from top industry experts.
                     </p>
                     <div class="flex gap-4">
-                        <a href="/"
+                        <a href="/" aria-label="fb"
                             class="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 transition text-white"><i
                                 class="ph ph-facebook-logo"></i></a>
-                        <a href="/"
+                        <a href="/" aria-label="tw"
                             class="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 transition text-white"><i
                                 class="ph ph-twitter-logo"></i></a>
-                        <a href="/"
+                        <a href="/" aria-label="inst"
                             class="w-10 h-10 rounded-full bg-slate-800 flex items-center justify-center hover:bg-indigo-600 transition text-white"><i
                                 class="ph ph-instagram-logo"></i></a>
                     </div>
@@ -365,13 +365,13 @@
                     <ul class="space-y-3 text-sm">
                         <li><i class="ph ph-map-pin mr-2 text-indigo-400"></i> San Antonio, TX 78201</li>
                         <li><i class="ph ph-phone mr-2 text-indigo-400"></i> +1 (555) 123-4567</li>
-                        <li><i class="ph ph-envelope mr-2 text-indigo-400"></i> hello@DJI.edu</li>
+                        <li><i class="ph ph-envelope mr-2 text-indigo-400"></i> hello@JDI.edu</li>
                     </ul>
                 </div>
             </div>
 
             <div class="border-t border-slate-800 pt-8 text-center text-sm text-slate-500">
-                &copy; 2026 DJI Academy. All rights reserved.
+                &copy; 2026 JD Innovations. All rights reserved.
             </div>
         </div>
     </footer>
