@@ -39,20 +39,20 @@
                     <div
                         class="inline-flex items-center gap-2 bg-indigo-50 text-indigo-700 px-4 py-2 rounded-full text-sm font-semibold mb-6">
                         <span class="w-2 h-2 bg-indigo-600 rounded-full animate-pulse"></span>
-                        Over 50,000 students enrolled
+                        Detect when a student is struggling → intervene with AI help → measure if it works
+
                     </div>
                     <h1 class="text-5xl lg:text-7xl font-bold leading-tight mb-8 text-slate-900">
                         Unlock Your Potential with <span class="text-indigo-600 relative inline-block">
-                            Expert-Led
+                            MasteryFlow
                             <svg class="absolute w-full h-3 -bottom-1 left-0 text-indigo-200" viewBox="0 0 100 10"
                                 preserveAspectRatio="none">
                                 <path d="M0 5 Q 50 10 100 5" stroke="currentColor" stroke-width="8" fill="none" />
                             </svg>
-                        </span> Courses
+                        </span>
                     </h1>
                     <p class="text-xl text-slate-600 mb-10 leading-relaxed max-w-lg">
-                        Learn high-demand skills in Design, Coding, Business, and Marketing. Start your learning journey
-                        today.
+                        Behavior → Detection → Intervention → Outcome
                     </p>
 
                     <div class="bg-white p-2 rounded-full shadow-xl flex items-center max-w-md border border-gray-100">
@@ -67,13 +67,13 @@
 
                     <div class="flex items-center gap-6 mt-12 text-sm font-medium text-slate-500">
                         <div class="flex items-center gap-2">
-                            <i class="ph ph-check-circle text-green-500 text-lg"></i> Certified Mentors
+                            <i class="ph ph-check-circle text-green-500 text-lg"></i> Improve Completion Rates
                         </div>
                         <div class="flex items-center gap-2">
-                            <i class="ph ph-check-circle text-green-500 text-lg"></i> Lifetime Access
+                            <i class="ph ph-check-circle text-green-500 text-lg"></i> More Satisfied Customers
                         </div>
                         <div class="flex items-center gap-2">
-                            <i class="ph ph-check-circle text-green-500 text-lg"></i> Valid Certificates
+                            <i class="ph ph-check-circle text-green-500 text-lg"></i> Get Better Reviews
                         </div>
                     </div>
                 </div>
@@ -88,8 +88,8 @@
                                     class="w-12 h-12 bg-orange-100 rounded-xl flex items-center justify-center text-orange-600 mb-3">
                                     <i class="ph ph-paint-brush-broad text-2xl"></i>
                                 </div>
-                                <h3 class="font-bold text-lg">Design</h3>
-                                <p class="text-sm text-slate-500">120+ Courses</p>
+                                <h3 class="font-bold text-lg">Behavior</h3>
+                                <p class="text-sm text-slate-500">Detect Student Struggle</p>
                             </div>
                             <img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600"
                                 class="rounded-3xl shadow-2xl w-full h-64 object-cover object-center" alt="myimage1">
@@ -103,8 +103,8 @@
                                     class="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center text-blue-600 mb-3">
                                     <i class="ph ph-code text-2xl"></i>
                                 </div>
-                                <h3 class="font-bold text-lg">Development</h3>
-                                <p class="text-sm text-slate-500">250+ Courses</p>
+                                <h3 class="font-bold text-lg">AI Intervention</h3>
+                                <p class="text-sm text-slate-500">Guide Student to Better Understanding</p>
                             </div>
                         </div>
                     </div>
