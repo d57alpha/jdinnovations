@@ -44,7 +44,7 @@
                     </div>
                     <h1 class="text-5xl lg:text-7xl font-bold leading-tight mb-8 text-slate-900">
                         Unlock Your Potential with <span class="text-indigo-600 relative inline-block">
-                            MasteryFlow
+                            JDI Learning
                             <svg class="absolute w-full h-3 -bottom-1 left-0 text-indigo-200" viewBox="0 0 100 10"
                                 preserveAspectRatio="none">
                                 <path d="M0 5 Q 50 10 100 5" stroke="currentColor" stroke-width="8" fill="none" />
